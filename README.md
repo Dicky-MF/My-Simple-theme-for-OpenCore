@@ -1,3 +1,34 @@
+### Forked from chris1111 original repo, All credit back to him.
+
+I do some mod on chris "icnspack-Build.command" file
+
+How to create my own theme ? :
+1. run on terminal "cd Desktop"
+2. run on terminal "git clone https://github.com/Dicky-MF/My-Simple-theme-for-OpenCore.git" or you can download manually.
+3. Open downloaded file/folder on your desktop
+4. Place your .png on "Icon" folder
+5. Run the ".command" file
+6. Your output file should be on "Resource" folder
+7. Copy and Replace them on "OC/Resources/Image"
+
+You should rename your files as i described below or the .command file will not work.
+List of .png pack that you'll need :
+1. AppleRecv.png
+2. AppleTM.png
+3. ExtApple.png
+4. ExtAppleRecv.png
+5. ExtAppleTM.png
+6. ExtHardDrive.png
+7. ExtWindows.png
+8. HardDrive.png
+9. ResetNVRAM.png
+10. Shell.png
+11. Tool.png
+12. Windows.png
+
+
+
+
 ### My-Simple-theme-for-OpenCore
 <p align="center">
   <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/90955108-99f57500-e448-11ea-8ec1-929edd99bf0c.png">
