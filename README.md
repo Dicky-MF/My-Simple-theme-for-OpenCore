@@ -3,8 +3,8 @@
 I do some mod on chris "icnspack-Build.command" file
 
 How to create your own theme ? :
-1. ![Download](https://github.com/Dicky-MF/My-Simple-theme-for-OpenCore/blob/master/Resource/icnspack.builder.v2.zip)
-2. Open downloaded file/folder on your desktop
+1. Download [icnspack.builder.v2.zip](https://github.com/Dicky-MF/My-Simple-theme-for-OpenCore/blob/master/Resource/icnspack.builder.v2.zip)
+2. Open and extract downloaded file
 3. Place your .png on "Icon" folder
 4. Run the ".command" file
 5. Your output file should be on "Resource" folder
