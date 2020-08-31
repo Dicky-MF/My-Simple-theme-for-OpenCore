@@ -26,6 +26,7 @@ You should rename your files as i described below or the .command file will not 
 12. Windows.png
 
 ### Screenshot
+![post](https://github.com/Dicky-MF/My-Simple-theme-for-OpenCore/blob/master/Screen%20Shot/LBC4.png?raw=true)
 ![post](https://github.com/Dicky-MF/My-Simple-theme-for-OpenCore/blob/master/Screen%20Shot/LBC1.png?raw=true)
 ![post](https://github.com/Dicky-MF/My-Simple-theme-for-OpenCore/blob/master/Screen%20Shot/LBC2.png?raw=true)
 
