@@ -2,14 +2,13 @@
 
 I do some mod on chris "icnspack-Build.command" file
 
-How to create my own theme ? :
-1. run on terminal "cd Desktop"
-2. run on terminal "git clone https://github.com/Dicky-MF/My-Simple-theme-for-OpenCore.git" or you can download manually.
-3. Open downloaded file/folder on your desktop
-4. Place your .png on "Icon" folder
-5. Run the ".command" file
-6. Your output file should be on "Resource" folder
-7. Copy and Replace them on "OC/Resources/Image"
+How to create your own theme ? :
+1. ![Download](https://github.com/Dicky-MF/My-Simple-theme-for-OpenCore/blob/master/Resource/icnspack.builder.v2.zip)
+2. Open downloaded file/folder on your desktop
+3. Place your .png on "Icon" folder
+4. Run the ".command" file
+5. Your output file should be on "Resource" folder
+6. Copy and Replace them on "OC/Resources/Image"
 
 You should rename your files as i described below or the .command file will not do the job :
 1. AppleRecv.png
