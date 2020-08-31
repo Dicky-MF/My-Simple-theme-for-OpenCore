@@ -11,8 +11,7 @@ How to create my own theme ? :
 6. Your output file should be on "Resource" folder
 7. Copy and Replace them on "OC/Resources/Image"
 
-You should rename your files as i described below or the .command file will not work.
-List of .png pack that you'll need :
+You should rename your files as i described below or the .command file will not do the job :
 1. AppleRecv.png
 2. AppleTM.png
 3. ExtApple.png
