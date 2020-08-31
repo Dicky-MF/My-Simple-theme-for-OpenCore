@@ -7,7 +7,7 @@ Installation and how to create your own theme ? :
 2. Open and extract downloaded file
 3. Place your .png on "Icon" folder
 4. Run the ".command" file
-5. Your output file should be on "Resource" folder
+5. Your output files should be on "Resource" folder
 6. Copy and Replace them on "OC/Resources/Image"
 
 You should rename your files as i described below or the .command file will not do the job :
